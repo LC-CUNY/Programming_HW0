@@ -1,1 +1,2 @@
-# Programming_HW0-
+CMP 426/697
+Programming Assignment 0
